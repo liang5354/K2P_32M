@@ -1,0 +1,5 @@
+https://github.com/NueXini/NueXini_Packages
+https://github.com/jerrykuku/luci-app-vssr
+https://github.com/Lienol/openwrt-package
+https://github.com/vernesong/OpenClash
+https://github.com/OpenWrt-Actions/OpenAppFilter
