@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt K2P_32M LUCI
+name: Build OpenWrt K2P_32M_Ok
 
 on:
   repository_dispatch:
