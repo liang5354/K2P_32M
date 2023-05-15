@@ -3,10 +3,10 @@
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
-#
+# 
 # https://github.com/P3TERX/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
-#
+# CONFIG_FILE: K2PMyNaive2.config
 
 name: Build OpenWrt K2P_32M Release
 
@@ -23,7 +23,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: K2PMyNaive2.config
+  CONFIG_FILE: Linux5.4_passwall2023.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
