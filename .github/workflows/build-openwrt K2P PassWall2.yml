@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/lm1618/lede
-  REPO_BRANCH: master
+  REPO_BRANCH: lede5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 2023ipv6.config
   DIY_P1_SH: diy-part1.sh
